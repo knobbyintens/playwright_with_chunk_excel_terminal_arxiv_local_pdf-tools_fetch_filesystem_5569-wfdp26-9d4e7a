@@ -20,3 +20,6 @@ their workshop profile page, which records their role and affiliation.
 - [Petra Volkov](petra-volkov.md) — Department of Robotics and Autonomous Systems, Northvale Institute of Technology, Northvale, USA
 - [Tobias Wren](tobias-wren.md) — Department of Computer Science, Cedar Hollow University, Cedar Hollow, USA
 - [Liang Zhao](liang-zhao.md) — Skyline Autonomous Systems, Portland, USA
+
+Registration categories and fees are governed by the official Presenter
+Support Policy: https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/policies/presenter-support-policy.md
