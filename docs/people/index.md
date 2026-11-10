@@ -22,4 +22,4 @@ their workshop profile page, which records their role and affiliation.
 - [Liang Zhao](liang-zhao.md) — Skyline Autonomous Systems, Portland, USA
 
 Registration categories and fees are governed by the official Presenter
-Support Policy: https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/policies/presenter-support-policy.md
+Support Policy: https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/organizers/edition-2026-support-terms.md

@@ -19,7 +19,7 @@ must be present on the title page.
 
 Registration fees, the manuscript page limit and overlength charges are governed
 by the official Presenter Support Policy. Refer to details on
-https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/policies/presenter-support-policy.md
+https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/organizers/edition-2026-support-terms.md
 
 ## Upload
 

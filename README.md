@@ -10,7 +10,7 @@ Conference on Field Robotics (ICFR 2026) and takes place on 14 December 2026.
 - Registration and fees — https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/attend/registration-faq.md
 - Camera-ready submission guidelines — https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/submissions/camera-ready-guidelines.md
 - People directory — https://raw.githubusercontent.com/knobbyintens/playwright_with_chunk_excel_terminal_arxiv_local_pdf-tools_fetch_filesystem_5569-wfdp26-9d4e7a/main/docs/people/index.md
-- Policies — `docs/policies/`
+- Organizers — `docs/organizers/`
 
 ## Accepted papers
 
